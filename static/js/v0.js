@@ -11,10 +11,10 @@ const _a_link=document.querySelector('._a_l_t6576322');
 let _key_img=true;
 function _c653632(){
 if(_key_img){
-_img.setAttribute('src','./static/_images/github-outline-fill_ww.svg')
+_img.setAttribute('src','./static/images/github-outline-fill_ww.svg')
 return _key_img=false;   
 }
-_img.setAttribute('src','./static/_images/github-outline-fill.svg')
+_img.setAttribute('src','./static/images/github-outline-fill.svg')
 return _key_img=true;
 }
 _a_link.addEventListener('mouseenter',_c653632)
