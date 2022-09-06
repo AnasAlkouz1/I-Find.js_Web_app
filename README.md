@@ -13,7 +13,7 @@
  [Library Link](https://github.com/AnasAlkouz1/I-Find.js/)
  
   
- [Demo And Docs](https://anasalkouz1.github.io/I-Find.js_Web_app//)
+ [Demo And Docs](https://anasalkouz1.github.io/I-Find.js_Web_app/)
 
 
 
